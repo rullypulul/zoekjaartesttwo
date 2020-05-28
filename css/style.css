@@ -1,0 +1,66 @@
+
+
+
+p  a, h1 a {
+      color: black;
+      text-decoration: underline;
+    }
+
+p a:hover, h1 a:hover {
+      color: blue;
+      text-decoration: none;
+    }
+    
+p {
+  
+  margin-left: 22px;
+  letter-spacing:-0.03em;
+  line-height: 1.1;
+
+}
+
+
+.text-top {
+    position: relative;
+    font-size: 108px;
+    font-weight: bold;
+    color: black;
+    z-index: 1000
+    
+    
+
+}
+
+.text-bottom {
+    position: relative;
+    font-size: 108px;
+    font-weight: bold;
+    color: black;
+    z-index: 1000
+    
+
+}
+
+.card-text {
+  font-size: 100px;
+  font-family: 'IBM Plex Serif', serif;
+  color: blue;
+
+  
+  
+}
+
+.card-text1 {
+  font-size: 100px;
+  font-family: 'IBM Plex Serif', serif;
+  color: blue;
+
+  
+  
+}
+
+#multiCollapseExample1 {
+
+  margin-left: -20px;
+ 
+    }
